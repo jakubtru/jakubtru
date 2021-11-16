@@ -1,7 +1,7 @@
 ## Cześć!
-Jestem Kuba i jestem studentem **AGH** :)
-Nie znajdziesz tutaj wielu *projektów*, ale wierzę, że z czasem pojawi się ich więcej.
-Pracuję aktualnie nad szachami w języku **Python**.
+Jestem Kuba i jestem studentem **AGH** :)  
+Nie znajdziesz tutaj wielu *projektów*, ale wierzę, że z czasem pojawi się ich więcej.  
+Pracuję aktualnie nad szachami w języku **Python**.  
 ### Miłego przeglądania!
 
 <!--
