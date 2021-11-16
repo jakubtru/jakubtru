@@ -1,4 +1,7 @@
-### Hi there 👋
+### Cześć!
+Jestem Kuba i jestem studentem **AGH** :)
+Nie znajdziesz tutaj wielu *projektów*, ale wierzę, że z czasem pojawi się ich więcej.
+## Miłego oglądnia!
 
 <!--
 **jakubtru/jakubtru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
