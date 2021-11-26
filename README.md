@@ -3,7 +3,7 @@ Jestem Kuba i jestem studentem **AGH** :)
 Nie znajdziesz tutaj wielu *projektów*, ale wierzę, że z czasem pojawi się ich więcej.  
 Pracuję aktualnie nad szachami w języku **Python**.  
 
-Zapraszam na moją [stronę](https://jakubtru.github.io/)
+Zapraszam na moją [stronę](https://jakubtru.github.io/) na github pages.
 ### Miłego przeglądania!
 
 <!--
