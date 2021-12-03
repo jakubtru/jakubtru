@@ -3,6 +3,8 @@ Jestem Kuba i jestem studentem **AGH** :)
 Nie znajdziesz tutaj wielu *projektów*, ale wierzę, że z czasem pojawi się ich więcej.  
 Pracuję aktualnie nad szachami w języku **Python**.  
 
+Repozytorium ciekawego artykułu dot. [kryptowalut](https://github.com/jakubtru/pump-and-dump-dataset.git).
+
 Zapraszam na moją [stronę](https://jakubtru.github.io/) na github pages.
 ### Miłego przeglądania!
 
