@@ -1,11 +1,8 @@
-## Cześć!
-Jestem Kuba i jestem studentem **AGH** :)  
-Nie znajdziesz tutaj wielu *projektów*, ale wierzę, że z czasem pojawi się ich więcej.  
+##
+Hey, I'm Jakub Truszkowski, an IT student who likes coding and software development. I have experience working with multiple programming languages and web development technologies. I'm always eager to learn new skills and collaborate with others on open-source projects.
 
-Repozytorium ciekawego artykułu dot. [kryptowalut](https://github.com/jakubtru/pump-and-dump-dataset.git).
-
-Zapraszam na moją [stronę](https://jakubtru.github.io/) na github pages.
-### Miłego przeglądania!
+Haven't uploaded anything to github for a long time, it's time to change that...
+### 
 
 <!--
 **jakubtru/jakubtru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
