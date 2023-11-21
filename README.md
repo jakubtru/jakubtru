@@ -2,7 +2,7 @@
 Hey, I'm Jakub Truszkowski, an IT student who likes coding and software development. I have experience working with multiple programming languages and web development technologies. I'm always eager to learn new skills and collaborate with others on open-source projects.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubtru&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubtru&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 ### 
 
 <!--
